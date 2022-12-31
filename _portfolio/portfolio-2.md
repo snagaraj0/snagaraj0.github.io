@@ -30,3 +30,5 @@ nodes.
 _Presented at the International Society for Computational Biology ROCKY 2019 Conference_
 
 [Code on GitHub](https://github.com/snagaraj0/SparkMap)
+
+![SparkMap pic](/images/SparkMap.png)
