@@ -1,6 +1,6 @@
 ---
-title: "Sensus: Scalable parallel genome mapping in a distributed computing architecture"
-excerpt: ""
+title: "Sensus: Helping Local Businesses Find Product Market Fit using Social Media"
+excerpt: "Built as part of TreeHacks 2022"
 collection: portfolio
 ---
 
