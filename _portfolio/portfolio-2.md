@@ -31,4 +31,4 @@ _Presented at the International Society for Computational Biology ROCKY 2019 Con
 
 [Code on GitHub](https://github.com/snagaraj0/SparkMap)
 
-![SparkMap pic](/_portfolio/SparkMap.png)
+![SparkMap pic](/images/SparkMap.png)
