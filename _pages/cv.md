@@ -14,7 +14,7 @@ Education
 * Stanford University • Major: Computer Science, Minors: Biology and Sustainability • GPA: 4.02/4.0 • June 2024
   * Courses: Data Structures and Algorithms, Computer Architecture, Operating Systems, Linear Algebra, Organic Chemistry, Biochemistry, Cell Biology, Computational Protein Modeling, Computational Biology, Machine Learning, Natural Language Processing
   * Organizations: Stanford TreeHacks (Sponsorships Team), Stanford Association for Computing Machinery, Stanford Students in Biodesign and Biopharma (Conference Chair), Stanford Hindu Students Council (President)
-  * Honors: Pear VC Garage Fellow, Stanford Energy in Hawaii Technology Fellow
+  * Honors: Pear VC Garage Fellow - Pear's community of the top 25 entrepreneurial engineering students in the US
 
 Work Experience
 ======
