@@ -1,6 +1,6 @@
 ---
 title: "Baseline and Longitudinal Diagnosis of Mild Cognitive Impairment and Alzheimer's Disease using Deep Learning and Risk Scores"
-excerpt: "Research project conducted at the Duong Lab. Published in the Journal of Alzheimer's Disease (IF 4.5)"
+excerpt: "Research project conducted at the Duong Lab. Published in the Journal of Alzheimer's Disease (IF 4.5)."
 collection: portfolio
 ---
 
