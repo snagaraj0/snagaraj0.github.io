@@ -24,7 +24,7 @@ My current work and interests lie in:
 
 1) Creating deep learning methods to improve ligand-receptor modeling
 
-2) Building multi-modal, multi-view models to unlock biological insights from omics data
+2) Building multi-modal, multi-view models to unlock biological insights
 
 3) ML-inspired de novo design methods for drug discovery
 
