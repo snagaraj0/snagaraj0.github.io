@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. Nagaraj, S., & Duong, T. Q. (2021). Deep Learning and Risk Score Classification of Mild Cognitive Impairment and
+Alzheimer’s Disease [JB]. Journal of Alzheimer’s Disease, 80(3), 1079–1090. https://doi.org/10.3233/JAD-201438
+2. Nagaraj, S., Chan, Y., Chambers, C., Cermakova, K., & Hodges H.C. (2021). Scalable parallel genome mapping using SparkMap
+in a distributed computing architecture. _Preprint available upon request_
