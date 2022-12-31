@@ -57,6 +57,7 @@ Skills
 ======
 * Programming Languages: Python, C++, C, Java, R, Swift
 * Machine Learning: TensorFlow, PyTorch, LightGBM, Scikit-learn, Numpy, Pandas, OpenCV, AWS SageMaker
+* Bioinformatics/Cheminformatics: Biopython, PyMol, RDKit, DeepChem, Sequence Aligners
 * Software Development Frameworks: React, TypeScript, AngularJS, Apache Spark/Hadoop, PostgreSQL
 
 Teaching
