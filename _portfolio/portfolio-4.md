@@ -20,10 +20,9 @@ These structures were then iteratively improved by cycles of Rosetta Remodel to 
 
 Metrics: The number of buried unsatisfied hydrogen bonds, the gibbs free energy at the interface, and the RMSD were calculated to assess the stability and the binding of the novel peptide to CTLA4.
 
-Results: Design 4 had the least number of unsatisfied hydrogen bonds (12), the lowest gibbs free energy (-183.472), and the lowest RMS (6.811 A). Design 4 also showed tight packing and high residue density across the interface between the alpha helix in the hallucinated protein and the long loop turn in CTLA4. These interactions were mostly non-polar, but virtually all polar residues in the helix had strong contacts with some part of the
-CTLA4 surface.
+Results: Design 4 had the least number of unsatisfied hydrogen bonds (12), the lowest gibbs free energy (-183.472), and the lowest RMS (6.811 A). Design 4 also showed tight packing and high residue density across the interface between hallucinated protein and CTLA4.
 
-Conclusion: In this project, I developed an initial modeling pipeline to design and test hallucinated proteins to generate
-a binder to a target protein. With this pipeline, I generated a relatively stable, selective binder to a single-chain protein target.
+Conclusion: In this project, an initial modeling pipeline was developed to design and test hallucinated proteins to generate
+a binder to a target protein. With this pipeline, a relatively stable, selective binder was generated to a single-chain protein target.
 
 _Full project report (included figures and final pdbs) available upon request_
