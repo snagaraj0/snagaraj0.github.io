@@ -25,3 +25,5 @@ CTLA4 surface.
 
 Conclusion: In this project, I developed an initial modeling pipeline to design and test hallucinated proteins to generate
 a binder to a target protein. With this pipeline, I generated a relatively stable, selective binder to a single-chain protein target.
+
+_Full project report (included figures and final pdbs) available upon request_
