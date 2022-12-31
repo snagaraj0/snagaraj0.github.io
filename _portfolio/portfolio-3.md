@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 PeptideCluster is a software workflow that was developed as part of an effort to harness high-throughput sequencing data generated from 
-phage display experiments to identify target-binding peptides and target-binded peptide motifs. This pipeline is composed of 5 main steps,
+phage display experiments to identify target-binding peptides and target-binding peptide motifs. This pipeline is composed of 5 main steps,
 
 1. Process Raw Sequencing Data: Takes an input FASTQ file, separates reads by barcode, applies a quality filter to remove low-quality sequences, and then the remaining sequences are translated into their respective amino acid sequences and their abundances are totaled and normalized.
 2. Visualization of Processed Sequences (Optional): Receives normalized peptide sequences and creates plots for the distribution of sequences by property (i.e. peptide ring size for bicyclic peptides) and allows for comparisons of processed sequences between display sequencing rounds (i.e. across datasets).
