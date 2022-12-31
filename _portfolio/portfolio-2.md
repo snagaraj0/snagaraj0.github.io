@@ -27,6 +27,6 @@ for mapping, SparkMap is able to process large volumes of HTS data in parallel u
 cluster. SparkMap is scalable with regards to both the size of a dataset and the number of available compute
 nodes.
 
-_Presented at the International Society for Computational Biology ROCKY 2019 Conference
+_Presented at the International Society for Computational Biology ROCKY 2019 Conference_
 
 [Code on GitHub](https://github.com/snagaraj0/SparkMap)
