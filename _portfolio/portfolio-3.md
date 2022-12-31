@@ -1,6 +1,6 @@
 ---
 title: "PeptideCluster: Unsupervised Hierarchical Clustering of Peptide Sequences for Identification of Strong Covalent Inhibitors"
-excerpt: "Software workflow developed to support a novel peptide discovery platform at the Bogyo Lab"
+excerpt: "Software workflow developed to support a novel peptide discovery platform at the Bogyo Lab."
 collection: portfolio
 ---
 
