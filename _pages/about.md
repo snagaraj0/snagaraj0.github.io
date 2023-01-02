@@ -13,7 +13,7 @@ About me
 
 Hey, I'm Sanjay!
 
-I'm currently an undergraduate at Stanford University studying Computer Science with a focus on AI and biocomputation. Broadly, I'm interested in developing computational methods to improve diagnostics, accelerate drug development, and pave the way for AI integration in clinical settings. Currently, I'm an undergraduate researcher in the [Dror Lab @ Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/). I'm also building something new in the health tech space (stay tuned for more)!
+I'm currently an undergraduate at Stanford University studying Computer Science with a focus on AI and biocomputation. Broadly, I'm interested in developing computational methods to improve diagnostics, accelerate drug development, and pave the way for AI integration in clinical settings. Currently, I'm an undergraduate researcher in the [Dror Lab @ Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/) creating methods to improve ligand-receptor modeling. I'm also building something new in the health tech space (stay tuned for more)!
 
 Feel free to reach out: sanjay [dot] nagaraj [at] stanford [dot] edu.
 
@@ -22,11 +22,11 @@ Current Interests
 ======
 My current work and interests lie in:
 
-1) Creating deep learning methods to improve ligand-receptor modeling
+1) ML-inspired de novo design methods for drug discovery
 
 2) Building multi-modal, multi-view models to unlock biological insights
 
-3) ML-inspired de novo design methods for drug discovery
+3) Creating robust and scalable solutions to make clinical care efficient
 
 
 Previous Work
