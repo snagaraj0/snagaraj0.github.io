@@ -26,7 +26,7 @@ My current work and interests lie in:
 
 2) Building multi-modal, multi-view models to unlock biological insights
 
-3) Creating robust and scalable solutions to make clinical care efficient
+3) Creating robust and scalable solutions to improve efficiency in clinical care
 
 
 Previous Work
